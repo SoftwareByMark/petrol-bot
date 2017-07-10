@@ -1,0 +1,73 @@
+PRIVACY POLICY 
+
+This privacy policy covers the personal information that Petrol Bot (“Petrol Bot”, “we”, “us”, “our” or “its”) collects, uses or discloses and sets out the way in which Petrol Bot will use, manage and protect your personal information when you message the Petrol Bot chatbot.
+
+We may update this privacy policy from time to time. The most current version will be located at: https://raw.githubusercontent.com/SoftwareByMark/petrol-bot/master/PrivacyPolicy.txt.
+
+By messaging Petrol Bot, you consent to the collection, use and disclosure of your personal information as set out in this privacy policy.
+
+* What types of personal information do we collect? 
+
+Petrol Bot will collect personal information from you that we require to provide our services to you. This information may include your: 
+
+•	the type of petrol you use;
+•	your suburb;
+•	your state;
+•	your GPS location; or
+•	your user id as provided by Facebook, Slack or other messaging service.
+
+We may collect your sensitive information but only if you agree to provide it to us. If you agree to provide us with sensitive information, we will only use it in accordance with the Australian Privacy Act 1988
+
+You do not have to provide Petrol Bot with any personal information, however if you do not do so Petrol Bot may not be able to provide you with the products, services or benefits you have requested.
+
+When you message our chatbot, we, or third parties involved in the provision of the website (including but not limited to Facebook, Slack or other messaging services) may record information about your visit. This information is used anonymously for statistical purposes and is not used to identify an individual or an individual’s browsing activities. The information collected may contain:
+
+•	Your city and country;
+•	Your age and gender; or
+•	Information about your device, browser and operating system;
+
+* How do we collect personal information?
+
+We collect personal information directly from you when you message our chatbot.
+
+* How do we use personal information?
+
+Petrol Bot will use the personal information we collect to provide services to you, for the following purposes:
+
+•	to establish and maintain your relationship with us; and
+•	to provide the services you have requested from us;
+
+We may also disclose your personal information to third parties who work with us to provide the services you have requested, including:
+
+•	third-party petrol price providers; and
+•	if Petrol Bot is required or authorised by law to disclose the personal information; 
+
+We will not use your personal information for any other purpose without first seeking your consent, or where authorised or required by law.
+
+We may store your personal information so that you do not need to re-provide that personal information if you use our services again.
+
+* Do we send personal information overseas? 
+
+Our chatbot and services are provided by Amazon Web Services.  Amazon servers are located in the United States and your personal information may be transmitted to a server located outside of Australia.  For more information, please refer to Amazon's Privacy Policy at: https://aws.amazon.com/privacy/.
+
+* How do we store and protect your personal information? 
+
+Our chatbot and services are provided by Amazon Web Services.  Amazon servers are located in the United States and your personal information may be transmitted to a server located outside of Australia.  For more information, please refer to Amazon's Privacy Policy at: https://aws.amazon.com/privacy/.
+
+* Accessing your personal information
+
+At your request, Petrol Bot will provide you with access to a copy of any personal information that Petrol Bot holds about you within 30 days upon receiving the request, subject to the exceptions outlined in the Australia Privacy Principles. We will give you access to your personal information in the form you want it where it is reasonable and practical. Petrol Bot may charge a fee for retrieving personal information, in which case Petrol Bot will inform you of the fee and obtain your agreement to that fee before providing the personal information requested.
+
+To submit a request, please write to us at: softwarebymark@gmail.com.
+
+* Change of Control
+
+The business and assets of Petrol Bot may be sold in the future. You consent to the transfer or disclosure of your personal information to any purchaser of Petrol Bot or its assets if that outcome occurs.
+
+* How to contact us?
+
+If you have any questions about this privacy policy, if you wish to update personal information we hold about you or if you wish to make a complaint about our collection, use or disclosure of your personal information under this privacy policy, please contact: softwarebymark@gmail.com.
+
+We will take reasonable steps to remedy any issues resulting from our failure to comply with our privacy obligations.
+
+Last updated July 2017.
